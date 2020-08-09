@@ -1,7 +1,7 @@
 # Transmission Connect
 
-transmission-sonarr-radarrr-config hopes to automatically 
-configure torrent clients to other PVR services 
+transmission-PVR-configure hopes to automatically 
+configure download clients (ex. Transmission) clients to other PVR services 
 such as sonarr and radarr within a cluster of docker containers
 within their own networks automatically so that you dont need to everytime your download client goes turns on and off 
 

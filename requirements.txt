@@ -1,0 +1,7 @@
+docker
+sys
+os
+requests
+python-dotenv
+pathlib
+
