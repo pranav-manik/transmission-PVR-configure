@@ -1,0 +1,4 @@
+curl -H "Content-Type: application/json" -X GET http://localhost:8989/api/downloadclient?apikey={$SONARRAPIKEY} >> downloadclient.json
+
+
+curl -H  "Content-Type: application/json" -X PUT http://localhost:8989/api/downloadclient/1?apikey={$SONARRAPIKEY} -d @downloadclient.json
