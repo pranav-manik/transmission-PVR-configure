@@ -25,3 +25,7 @@ RADARRHOST='localhost'
 RADARRPORT='7878'
 DOWNLOADCLIENT='transmission'
 ```
+start script
+```
+python3 transmission-connect.py
+```
